@@ -1,4 +1,5 @@
-# Breast Tumor vs Normal Tissue: Gene Expression Analysis and Classification
+# Bioinformatics Project Group 2
+# Breast Tumor vs Normal Tissue: Gene Expression Analysis and Classification 
 
 **Research question:** Which genes and pathways differ in expression between breast tumor and normal tissue, and can those expression differences accurately classify samples?
 
